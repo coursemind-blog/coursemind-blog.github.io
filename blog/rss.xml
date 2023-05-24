@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
-        <title>ProtonX AI E-learning Blog</title>
-        <link>https://protonx.io/blog</link>
-        <description>ProtonX AI E-learning Blog</description>
+        <title>CourseMind Blog</title>
+        <link>https://coursemind.io/blog</link>
+        <description>CourseMind Blog</description>
         <lastBuildDate>Mon, 10 Apr 2023 10:06:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
         <item>
             <title><![CDATA[Kinh nghiệm phỏng vấn các công ty Big Tech]]></title>
-            <link>https://protonx.io/blog/bigtechinterview</link>
+            <link>https://coursemind.io/blog/bigtechinterview</link>
             <guid>/bigtechinterview</guid>
             <pubDate>Mon, 10 Apr 2023 10:06:49 GMT</pubDate>
             <description><![CDATA[img1]]></description>
@@ -18,7 +18,7 @@
         </item>
         <item>
             <title><![CDATA[Làn sóng layoff 2023: Thách thức và cơ hội]]></title>
-            <link>https://protonx.io/blog/layoff2023</link>
+            <link>https://coursemind.io/blog/layoff2023</link>
             <guid>/layoff2023</guid>
             <pubDate>Mon, 10 Apr 2023 10:06:49 GMT</pubDate>
             <description><![CDATA[img1]]></description>
@@ -26,7 +26,7 @@
         </item>
         <item>
             <title><![CDATA[Thú vị TF 05 - Từ chứng chỉ Tensorflow tới bài toán AI thực tế]]></title>
-            <link>https://protonx.io/blog/thu-vi-tf-05</link>
+            <link>https://coursemind.io/blog/thu-vi-tf-05</link>
             <guid>/thu-vi-tf-05</guid>
             <pubDate>Wed, 29 Mar 2023 03:34:45 GMT</pubDate>
             <description><![CDATA[Cùng điểm qua những điều rất thú vị từ lớp học AI nền tảng và luyện thi chứng chỉ Tensorflow TF 05. Lớp học trọng tâm tại ProtonX giúp người học có một nền tảng trí tuệ nhân tạo vững chắc và được chứng nhận bởi Google.]]></description>
@@ -34,7 +34,7 @@
         </item>
         <item>
             <title><![CDATA[Lộ trình để trở thành kỹ sư học máy từ con số 0]]></title>
-            <link>https://protonx.io/blog/tro-thanh-ky-su-hoc-may-tu-con-so-0</link>
+            <link>https://coursemind.io/blog/tro-thanh-ky-su-hoc-may-tu-con-so-0</link>
             <guid>/tro-thanh-ky-su-hoc-may-tu-con-so-0</guid>
             <pubDate>Tue, 29 Nov 2022 00:00:00 GMT</pubDate>
             <description><![CDATA[Sau 1 năm rưỡi xây dựng, ProtonX đã hoàn thành đầy đủ lộ trình để bạn có thể trở thành một kỹ sư học máy thực thụ từ con số 0.]]></description>
