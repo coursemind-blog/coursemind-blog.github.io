@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkprotonxio_blog=self.webpackChunkprotonxio_blog||[]).push([[7177],{6224:o=>{o.exports=JSON.parse('{"permalink":"/vi/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":5,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
